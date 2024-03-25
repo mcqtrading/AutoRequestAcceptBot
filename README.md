@@ -1,5 +1,6 @@
 # AutoRequestAcceptBot
 <p align="center">
+<img
 src="https://telegra.ph/file/8f810bba085b31e4a6c96.jpg" /></a>
 </p>
 
